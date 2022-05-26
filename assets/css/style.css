@@ -27,6 +27,1165 @@ body {
 }
 
 
+/* smartphone */
+
+position: relative;
+width: 411px;
+height: 731px;
+
+background: #FFFFFF;
+
+
+/* Footer */
+
+position: absolute;
+width: 411px;
+height: 8px;
+left: 0px;
+top: 723px;
+
+background: #333333;
+
+
+/* Status Bar */
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Frame 6 */
+
+position: absolute;
+width: 120px;
+height: 16px;
+left: 2.64px;
+top: 4px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 12px;
+height: 9px;
+left: 45.36px;
+top: 3px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 12px;
+height: 3.41px;
+left: 45.36px;
+top: 3px;
+
+background: #FCFCFC;
+
+
+/* Path */
+
+position: absolute;
+width: 8.07px;
+height: 2.64px;
+left: 47.32px;
+top: 6px;
+
+background: #FCFCFC;
+
+
+/* Path */
+
+position: absolute;
+width: 4.09px;
+height: 3.04px;
+left: 49.31px;
+top: 8.96px;
+
+background: #FCFCFC;
+
+
+/* Group */
+
+position: absolute;
+width: 33.5px;
+height: 5.5px;
+left: 3.36px;
+top: 5px;
+
+
+
+/* Oval 1 */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 3.36px;
+top: 5px;
+
+background: #FFFFFF;
+
+
+/* Oval 1 copy */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 10.36px;
+top: 5px;
+
+background: #FFFFFF;
+
+
+/* Oval 1 copy 2 */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 17.36px;
+top: 5px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 24.36px;
+top: 5px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 4.5px;
+height: 4.5px;
+left: 24.86px;
+top: 5.5px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 24.36px;
+top: 5px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 31.36px;
+top: 5px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 4.5px;
+height: 4.5px;
+left: 31.86px;
+top: 5.5px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 5.5px;
+height: 5.5px;
+left: 31.36px;
+top: 5px;
+
+background: #DADADA;
+
+
+/* Frame 8 */
+
+position: absolute;
+width: 88px;
+height: 18px;
+right: 2.36px;
+top: 2px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 24.5px;
+height: 10px;
+left: 59.86px;
+top: 4.5px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 22.5px;
+height: 10px;
+left: 59.86px;
+top: 4.5px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 21.5px;
+height: 8.95px;
+left: 60.36px;
+top: 5.03px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 22.5px;
+height: 10px;
+left: 59.86px;
+top: 4.5px;
+
+background: #DADADA;
+
+
+/* Charge */
+
+position: absolute;
+width: 9px;
+height: 8px;
+left: 60.86px;
+top: 5.5px;
+
+background: #FFFFFF;
+
+
+/* + */
+
+position: absolute;
+width: 1.5px;
+height: 3.46px;
+left: 82.86px;
+top: 8px;
+
+background: #FFFFFF;
+
+
+/* 42% */
+
+position: absolute;
+width: 25px;
+height: 15px;
+left: 29.86px;
+top: 2.5px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 5px;
+height: 10px;
+left: 19.86px;
+top: 4.5px;
+
+border: 1px solid #FCFCFC;
+
+
+/* 9:42 AM */
+
+position: absolute;
+width: 50px;
+height: 15px;
+left: calc(50% - 50px/2 + 1px);
+top: 4.5px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Header */
+
+position: absolute;
+width: 411px;
+height: 60px;
+left: 0px;
+top: 24px;
+
+background: #E0E0E0;
+
+
+/* Logo */
+
+position: absolute;
+width: 30px;
+height: 27.63px;
+left: 22px;
+top: 15px;
+
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 30px;
+height: 27.63px;
+left: 22px;
+top: 15px;
+
+border: 2px solid #333333;
+
+
+/* menu */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 369px;
+top: 18px;
+
+
+
+/* bounds */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 18px;
+top: calc(50% - 24px/2);
+
+
+
+/* Shape */
+
+position: absolute;
+width: 18px;
+height: 12px;
+left: 372px;
+top: 24px;
+
+background: #333333;
+mix-blend-mode: normal;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 2px;
+right: 21px;
+top: calc(50% - 2px/2 + 5px);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 2px;
+right: 21px;
+top: calc(50% - 2px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 2px;
+right: 21px;
+top: calc(50% - 2px/2 - 5px);
+
+background: #DADADA;
+
+
+/* Controle financeiro */
+
+position: absolute;
+width: 411px;
+height: 43px;
+left: calc(50% - 411px/2);
+top: calc(50% - 43px/2 + 0.5px);
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Transaction form */
+
+position: absolute;
+width: 371px;
+height: 290px;
+left: 20px;
+top: 110px;
+
+
+
+/* Drop down/Button/Secondary/Medium */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 80.34%;
+
+
+
+/* Rectangle 40 Copy 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 32px;
+left: 0%;
+right: 0%;
+top: 25px;
+
+background: #FFFFFF;
+border: 1px solid #979797;
+border-radius: 4px;
+
+
+/* Text */
+
+position: absolute;
+width: 49px;
+height: 22px;
+left: 10px;
+top: 33px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #888888;
+
+
+
+/* Group */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 347px;
+top: 35px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+right: 12px;
+top: 35px;
+
+
+
+/* down */
+
+position: absolute;
+left: 93.79%;
+right: 3.49%;
+top: 66.67%;
+bottom: 22.81%;
+
+/* @text-color */
+background: rgba(0, 0, 0, 0.65);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 0.94px;
+height: 7.75px;
+right: 21.6px;
+top: 37.81px;
+
+background: #DADADA;
+border-radius: 1.17188px;
+transform: matrix(-0.74, 0.67, 0.67, 0.74, 0, 0);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 0.94px;
+height: 7.75px;
+right: 12.52px;
+top: 37.81px;
+
+background: #DADADA;
+border-radius: 1.17188px;
+transform: matrix(0.74, 0.67, -0.67, 0.74, 0, 0);
+
+
+/* Tipo de transação */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 61.01%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+color: #333333;
+
+
+
+/* Input/Medium/Input */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 26.55%;
+bottom: 53.91%;
+
+
+
+/* Rectangle 26 Copy 23 */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 32px;
+left: 0px;
+right: 0px;
+top: 24px;
+
+background: #FFFFFF;
+border: 1px solid #979797;
+border-radius: 4px;
+
+
+/* Text */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: 12px;
+top: 29px;
+
+/* @font-size-base: 14px */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+display: flex;
+align-items: center;
+
+color: #888888;
+
+
+
+/* Nome da mercadoria */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60.78%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+color: #333333;
+
+
+
+/* Input/Medium/Input */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 52.99%;
+bottom: 28.05%;
+
+
+
+/* Rectangle 26 Copy 23 */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 32px;
+left: 0px;
+right: 0px;
+top: 24px;
+
+background: #FFFFFF;
+border: 1px solid #979797;
+border-radius: 4px;
+
+
+/* Text */
+
+position: absolute;
+width: 52px;
+height: 22px;
+left: 12px;
+top: 29px;
+
+/* @font-size-base: 14px */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+display: flex;
+align-items: center;
+
+color: #888888;
+
+
+
+/* Valor */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60.78%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #333333;
+
+
+
+/* Button/Primary/Basic/Default */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.85%;
+bottom: 9.77%;
+
+
+
+/* Building-block/Buttons/default/button-normal */
+
+position: absolute;
+height: 32px;
+left: 0px;
+right: 0px;
+top: 0.78px;
+
+
+
+/* Building-block/Buttons/14pt/button-normal */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #333333;
+border-radius: 4px;
+
+
+/* Building-block/Buttons/default/Label-normal */
+
+position: absolute;
+height: 32px;
+left: 0%;
+right: 0%;
+top: 0.78px;
+
+
+
+/* Building-block/Buttons/14pt/Label-normal */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* @font-size-base: 14px */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* @btn-primary-color */
+color: #FFFFFF;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 290px;
+
+border: 1px solid #979797;
+
+
+/* Account statement */
+
+position: absolute;
+width: 371px;
+height: 281px;
+left: 20px;
+top: 420px;
+
+background: #FFFFFF;
+
+
+/* Frame */
+
+position: absolute;
+width: 371px;
+height: 187px;
+left: 0px;
+top: 60px;
+
+
+
+/* Mercadoria */
+
+position: absolute;
+width: 72px;
+height: 22px;
+left: 30px;
+top: 0px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #000000;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 33px;
+height: 22px;
+left: 296px;
+top: 0px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet consectetur */
+
+position: absolute;
+width: 231px;
+height: 34px;
+left: 30px;
+top: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 22px;
+
+border: 1px solid #979797;
+
+
+/* + */
+
+position: absolute;
+width: 9px;
+height: 25.35px;
+left: 10px;
+top: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 70.94px;
+
+border: 1px solid #979797;
+
+
+/* R$ 12.999,99 */
+
+position: absolute;
+width: 98px;
+height: 41.83px;
+left: 263px;
+top: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Quis nostrud exercitation */
+
+position: absolute;
+width: 231px;
+height: 18px;
+left: 30px;
+top: 78px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 71px;
+
+border: 1px solid #979797;
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 25.35px;
+left: 10px;
+top: 78px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 104px;
+
+border: 1px solid #979797;
+
+
+/* R$ 99,99 */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 263px;
+top: 78px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 231px;
+height: 18px;
+left: 30px;
+top: 111px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* + */
+
+position: absolute;
+width: 9px;
+height: 25.35px;
+left: 10px;
+top: 111px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 137px;
+
+border: 1px solid #979797;
+
+
+/* Line */
+
+position: absolute;
+width: 371px;
+height: 0px;
+left: 0px;
+top: 140px;
+
+border: 1px solid #979797;
+
+
+/* R$ 9,99 */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 263px;
+top: 111px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Total */
+
+position: absolute;
+width: 72px;
+height: 18px;
+left: 30px;
+top: 151px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+color: #000000;
+
+
+
+/* R$ 12.909,99 */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 263px;
+top: 151px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* [LUCRO] */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 263px;
+top: 169px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 22px;
+/* or 220% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Extrato de transações */
+
+position: absolute;
+width: 174px;
+height: 20px;
+left: 109px;
+top: 21px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* or 122% */
+
+color: #000000;
+
 
 
 
