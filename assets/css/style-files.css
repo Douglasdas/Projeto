@@ -1,15 +1,3 @@
-/* reset css start */
-*,
-*:after,
-*:before {
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	font-size: 1em;
-}
-
-/* global*/
 body{
     font-family: "Lato";
 }
@@ -17,7 +5,7 @@ body{
 .container{
     margin: 0 auto;
     max-width: 1100px;
-}
+    }
 
 img{
     max-width: 100%;
@@ -34,15 +22,30 @@ img{
 
 .brand{
     background-image: url(../img/elipse1.png);
-    background-size: cover;
-    width: 210px;
-    background-position: 50%;
-    height: 2.75em;
+    width: 33px;
+    height: 33px;
+    left: 42px;
+    top: 22px;
+    
 }
 
 .system-title{
-    margin: 0 1em;
-    font-size: 1.25em;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin: 0px;
+
+    height: 43px;
+    width: 411px;
+    left: 60px;
+    top: 19px;
+    border-radius: nullpx;
+    text-align: center;
+    vertical-align: center;
+
+    
 }
 
 .navbar-menu{
@@ -156,4 +159,14 @@ img{
     left: 0;
     bottom: 0;
     background-color: #000;
+}
+
+.valores {
+    font-family: lato;
+    font-style: Regular
+    fonnt-syze: 14px
+    Line height: 16px
+    Line height: 95.24%
+    Align: Left
+    Vertical align: Top
 }
