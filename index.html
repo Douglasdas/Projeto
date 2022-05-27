@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width-device-width, inicial-scale=1">
+    <meta name="viewport" content="width=device-width, inicial-scale=1">
     <meta name="description" content="Controle financeiro para transações de compras e vendas de mercadorias.">
 
     <link rel="shortcut icon" href="./assets/img/Elipse1.png">
@@ -26,9 +26,8 @@
 
             <nav class="navbar-menu">
                 <li>
-                    <ul><a href="#">dashboard</a></ul>
-                    <ul><a href="#">resumo</a></ul>
-                    <ul><a href="#">configurações</a></ul>
+                    <ul><a href="#">limpar dados</a></ul>
+                    <ul><a href="#">Cadastro de transações</a></ul>
                 </li>
             </nav>
         </div>
@@ -37,7 +36,6 @@
     <main class="main-content">
         <div class="container">
             <section class="section-new-transaction">
-                <h1>Nova transação</h1>
                 <form>
                     <label for="transaction-type">Tipo de transação</label>
                     <select name="input-transaction-type" id="transaction-type" required>
@@ -55,6 +53,7 @@
                 </form>
             </section>
 
+            
             <section class="section-transaction-statement">
                 <h1>Extrato de transações</h1>
                 <table class="table-transaction-statement">
@@ -92,7 +91,7 @@
                         </tr>
                     </tfoot>
                 </table>
-            </section>
+                </section>
         </div>
     </main>
     <footer class="main-footer"></footer>
