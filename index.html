@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, inicial-scale=1">
-    <meta name="description" content="Controle financeiro para transações de compras e vendas de mercadorias.">
+    <meta name="viewport" content="width-device-width, inicial-scale=1">
+    <meta name="description" content="Controle financeiro.">
 
     <link rel="shortcut icon" href="./assets/img/Elipse1.png">
     <title>Controle Financeiro</title>
@@ -26,8 +26,9 @@
 
             <nav class="navbar-menu">
                 <li>
-                    <ul><a href="#">limpar dados</a></ul>
-                    <ul><a href="#">Cadastro de transações</a></ul>
+                    <ul><a href="#">dashboard</a></ul>
+                    <ul><a href="#">resumo</a></ul>
+                    <ul><a href="#">configurações</a></ul>
                 </li>
             </nav>
         </div>
@@ -36,6 +37,7 @@
     <main class="main-content">
         <div class="container">
             <section class="section-new-transaction">
+                <h1>Nova transação</h1>
                 <form>
                     <label for="transaction-type">Tipo de transação</label>
                     <select name="input-transaction-type" id="transaction-type" required>
@@ -53,7 +55,6 @@
                 </form>
             </section>
 
-            
             <section class="section-transaction-statement">
                 <h1>Extrato de transações</h1>
                 <table class="table-transaction-statement">
@@ -67,17 +68,17 @@
                         <tr class="valores">
                             <th></th>
                             <th>Lorem ipsun dolor sit amet consecteur</th>
-                            <th>Valor</th>
+                            <th>R$ 12.999,99</th>
                         </tr>
                         <tr class="valores">
                             <th></th>
                             <th>Quis nostrud exercitation</th>
-                            <th>Valor</th>
+                            <th>R$ 99,99</th>
                         </tr>
                         <tr class="valores">
                             <th></th>
                             <th>Loren ipsun</th>
-                            <th>Valor</th>
+                            <th>R$ 9,99</th>
                         </tr>
                         
                     </thead>
@@ -91,7 +92,7 @@
                         </tr>
                     </tfoot>
                 </table>
-                </section>
+            </section>
         </div>
     </main>
     <footer class="main-footer"></footer>

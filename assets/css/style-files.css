@@ -26,6 +26,7 @@ img{
     height: 33px;
     left: 42px;
     top: 22px;
+    
 }
 
 .system-title{
@@ -43,6 +44,8 @@ img{
     border-radius: nullpx;
     text-align: center;
     vertical-align: center;
+
+    
 }
 
 .navbar-menu{
@@ -78,7 +81,7 @@ img{
 /* main */
 /* sections */
 .section-new-transaction {
-    width: 50%;
+    width: 33%;
     padding: 1em;
     border: 1px solid #aaa;
     border-radius: 4px;
@@ -109,18 +112,14 @@ img{
     border-radius: 3px;
 }
 
-.sale-button{
-    background-color: #12483a;
-    color: #febf1a;
-}
-
 .buy-button{
     background-color: #333333;
-    color: white;
+    color: white
+    ;
 }
 
 .section-transaction-statement{
-    width: 50%;
+    width: 66%;
     padding: 1em;
     text-align: left;
 }
@@ -161,22 +160,26 @@ img{
     font-family: lato;
     font-style: Regular
     fonnt-syze: 14px
-    Line height: 16px 
+    Line height: 16px
     Line height: 95.24%
     Align: Left
     Vertical align: Top
 }
-
-    @media screen and (max-width: 840px) {
-        .section-transaction-statement  {
-            width: 100%;
-            }
-    
-        .section-new-transaction {
-            width: 100%;
-            }
+/*Tablet */
+@media only screen and (max-width: 1000px) {         
+    .section-new-transaction {
+        width: 100%;}
+    .section-transaction-statement {
+         width: 100%;
+    }
         }
- 
-
     
 
+/*Smartphone */
+@media onlly screen and (max-width: 620px) {
+    .section-new-transaction {
+        width: 100%;}
+    .section-transaction-statement {
+         width: 100%;
+    }
+}
