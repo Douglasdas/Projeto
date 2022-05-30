@@ -28,20 +28,37 @@
 
 
 /*Tablet */
-@media only screen and (max-width: 1000px) {         
+@media screen and (max-width: 1000px) {         
     .section-new-transaction,
     .section-transaction-statement {
-        width: 100%;
+       Width: 100%
     }
 }
-    
+    /*Smartphone */
+@media screen and (max-width: 1000px) {         
+    .section-new-transaction,
+    .section-transaction-statement {
+       Width: 100%
+    }
+}
 
-/*Smartphone */
-@media onlly screen and (max-width: 620px) {
-    .section-new-transaction,
-    .section-transaction-statement {
-        width: 100%;
+/*Smartphone 
+@media only screen and (max-width: 620px) {
+    .section-new-transaction {
+        height: 731px;
+        width: 411px;
+        left: -733px;
+        top: -407px;
+        border-radius: 0px;
     }
+    .section-transaction-statement {
+        height: 281px;
+        width: 371px;
+        left: 20px;
+        top: 420px;
+        border-radius: 0px;
 }
+*/
+
 
 
