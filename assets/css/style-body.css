@@ -24,41 +24,70 @@
 .section-new-transaction form{
     display: flex;
     flex-direction: column;
+  }
+
+
+        /*Tablet */
+@media screen and (max-width: 768px) {         
+          .container {
+                display: flex;
+                width: 100%;
+                flex-direction: column;
+              } 
+            
+            .section-new-transaction {
+                width: 100%;
+                flex-direction: row;
+                border: none;
+               }
+            
+            .section-transaction-statement {
+                width: 100%;
+            }
+            
+            #input-transaction-type, #input-name, #input-price {
+                display: flex;
+                flex-direction: row;
+            }
+
+            .buy-button {
+                    justify-content: right;
+                    height: 32px;
+                    width: 200px;
+                    left: 0px;
+                    top: 0px;
+                    border-radius: 4px;
+               }
+                        
+            .navbar-brand {
+                display: flex;
+                align-items: center;
+                text-align: center;
+                justify-content: center;
+                }
+
+            .navbar-menu {
+                display: flex;
+                align-items: center;
+                justify-content: right;
+                background-image: url(../assets/img/item.png);
+                }
+        }
+    
+    
+        /*Smartphone */
+@media screen and (max-width: 411px) {         
+            .section-new-transaction,
+            .section-transaction-statement {
+                Width: 100%; 
+                flex-direction: column;
+                background-color: rgb(255, 0, 64);
+            }
+   
+            .navbar-brand {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: rgb(97, 165, 42);
+             }
 }
-
-
-/*Tablet */
-@media screen and (max-width: 1000px) {         
-    .section-new-transaction,
-    .section-transaction-statement {
-       Width: 100%
-    }
-}
-    /*Smartphone */
-@media screen and (max-width: 1000px) {         
-    .section-new-transaction,
-    .section-transaction-statement {
-       Width: 100%
-    }
-}
-
-/*Smartphone 
-@media only screen and (max-width: 620px) {
-    .section-new-transaction {
-        height: 731px;
-        width: 411px;
-        left: -733px;
-        top: -407px;
-        border-radius: 0px;
-    }
-    .section-transaction-statement {
-        height: 281px;
-        width: 371px;
-        left: 20px;
-        top: 420px;
-        border-radius: 0px;
-}
-*/
-
-
-

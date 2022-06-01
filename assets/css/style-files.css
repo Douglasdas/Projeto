@@ -165,17 +165,3 @@ img{
     Align: Left
     Vertical align: Top
 }
-/*Tablet */
-@media screen and (max-width: 1000px) {         
-    .section-new-transaction,
-    .section-transaction-statement {
-       Width: 100%
-    }
-}
-    /*Smartphone */
-@media screen and (max-width: 1000px) {         
-    .section-new-transaction,
-    .section-transaction-statement {
-       Width: 100%
-    }
-}
