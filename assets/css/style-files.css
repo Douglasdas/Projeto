@@ -166,20 +166,16 @@ img{
     Vertical align: Top
 }
 /*Tablet */
-@media only screen and (max-width: 1000px) {         
-    .section-new-transaction {
-        width: 100%;}
+@media screen and (max-width: 1000px) {         
+    .section-new-transaction,
     .section-transaction-statement {
-         width: 100%;
+       Width: 100%
     }
-        }
-    
-
-/*Smartphone */
-@media onlly screen and (max-width: 620px) {
-    .section-new-transaction {
-        width: 100%;}
+}
+    /*Smartphone */
+@media screen and (max-width: 1000px) {         
+    .section-new-transaction,
     .section-transaction-statement {
-         width: 100%;
+       Width: 100%
     }
 }
