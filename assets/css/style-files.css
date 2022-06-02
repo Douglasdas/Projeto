@@ -28,9 +28,12 @@ img{
     top: 22px;
 }
 
-.brand2{
+.checkbtn{
     background-image: url(../img/item.png);
-    
+    width: 18px;
+    height: 2px;
+    left: 729px;
+    top: 29px;
 }
 
 .system-title{
