@@ -81,13 +81,11 @@
             .section-transaction-statement {
                 Width: 100%; 
                 flex-direction: column;
-                background-color: rgb(255, 0, 64);
             }
    
             .navbar-brand {
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                color: rgb(97, 165, 42);
-             }
+            }
 }

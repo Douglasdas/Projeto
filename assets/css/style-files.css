@@ -26,6 +26,10 @@ img{
     height: 33px;
     left: 42px;
     top: 22px;
+}
+
+.brand2{
+    background-image: url(../img/item.png);
     
 }
 
