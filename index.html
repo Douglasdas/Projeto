@@ -22,9 +22,10 @@
         <div class="container">
             <div nav class="navbar-brand">
                 <a href="#" class="brand"></a>
+                
                     <h1 class="system-title">
                     Controle financeiro
-                </h1>
+                    </h1>
             </div>
 
             <div nav class="navbar-menu">
@@ -46,19 +47,33 @@
             <section class="section-new-transaction">
                 <h1>Nova transação</h1>
                 <form>
-                    <label for="transaction-type">Tipo de transação</label>
-                    <select name="input-transaction-type" id="transaction-type" required>
-                        <option value="1">Compra</option>
-                        <option value="2">Venda</option>
-                    </select>
+                    <div class="line">
+                       <label for="transaction-type">Tipo de transação</label>
+                            <div>
+                                <select name="input-transaction-type" id="transaction-type" required>
+                                <option value="1">Compra</option>
+                                <option value="2">Venda</option>
+                                </select>
+                            </div>
+                    </div>
 
-                    <label for="name">Nome da mercadoria</label>
-                    <input type="text" name="input-name" id="name" placeholder="input" required>
+                    <div class="line">
+                        <label for="name">Nome da mercadoria</label>
+                            <div>
+                                <input type="text" name="input-name" id="name" placeholder="input" required>
+                            </div>
+                    </div>
 
-                    <label for="price">Valor (R$)</label>
-                    <input type="number" name="input-price" id="price" min="0.01" step="0.01" placeholder="R$ 0,00" required>
+                    <div>
+                        <label for="price">Valor (R$)</label>
+                            <div>
+                                <input type="number" name="input-price" id="price" min="0.01" step="0.01" placeholder="R$ 0,00" required>
+                            </div>
+                    </div>
 
-                    <button type="submit" class="buy-button">Adicionar transação</button>
+                    <div>
+                        <button type="submit" class="buy-button">Adicionar transação</button>
+                    </div>
                 </form>
             </section>
 

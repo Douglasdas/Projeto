@@ -30,8 +30,9 @@ img{
 
 .checkbtn{
     background-image: url(../img/item.png);
-    width: 18px;
-    height: 2px;
+    display: block;
+    width: 21px;
+    height: 49px;
     left: 729px;
     top: 29px;
 }
